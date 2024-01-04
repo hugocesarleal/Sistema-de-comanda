@@ -1,0 +1,22 @@
+Nome: Hugo
+Telefone: 9999999999
+Endereço: Rua_Fulano_de_Tal
+--------------------------------
+            Delivery            
+--------------------------------
+Pizza Grande 8 Fatias   R$55,00
+
+Sabor
+Filé Mignon
+
+Sabor da Borda
+Vulcão              R$10,00
+--------------------------------
+Observações: Sem_milho
+--------------------------------
+SubTotal:                65,00
+Taxa de entrega:          3,00
+Total:                   68,00
+--------------------------------
+Forma de pagamento:
+Dinheiro    troco  R$100,000~
